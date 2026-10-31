@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "macespear.mcsh.gg",
-    "port": 13159,
+    "ip": "voidms.mcsh.gg",
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
